@@ -1,0 +1,35 @@
+{
+    "aeronaves": [
+      {
+        "prefixo": "BR001",
+        "velocidadeCruzeiro": 1000,
+        "autonomia": 5000
+      },
+      {
+        "prefixo": "BR002",
+        "velocidadeCruzeiro": 1000,
+        "autonomia": 5000,
+        "respmanutencao": "Consertaviao"
+      },
+      {
+        "prefixo": "PT123",
+        "velocidadeCruzeiro": 1000,
+        "autonomia": 5000,
+        "nomeCIA": "United Airlines"
+      },
+      {
+        "prefixo": "PT456",
+        "velocidadeCruzeiro": 1000,
+        "autonomia": 5000,
+        "nomeCIA": "FedEx",
+        "pesoMax": 5000
+      },
+      {
+        "prefixo": "PT789",
+        "velocidadeCruzeiro": 1000,
+        "autonomia": 5000,
+        "nomeCIA": "UPS",
+        "maxPassageiros": 200
+      }
+    ]
+  }

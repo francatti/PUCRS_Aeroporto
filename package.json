@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "dependencies": {
+    "bycontract": "^2.0.11",
+    "csv-parser": "^3.0.0",
+    "csv-string": "^4.1.1",
+    "fs": "^0.0.1-security",
+    "n-readlines": "^1.0.1",
+    "prompt-sync": "^4.2.0",
+    "ramda": "^0.29.0"
+  },
+  "name": "poo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

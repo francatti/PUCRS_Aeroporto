@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "id": "1234",
+      "matricPiloto": "111",
+      "prefixoAeronave": "BR001",
+      "data": "10/10/2010",
+      "horario": "10:30",
+      "idAerovia": "R1",
+      "altitude": 26000,
+      "slots": [
+        "10:30",
+        "11:30"
+      ],
+      "cancelado": false
+    }
+  ],
+  [
+    {
+      "id": "4321",
+      "matricPiloto": "222",
+      "prefixoAeronave": "BR002",
+      "data": "11/11/2011",
+      "horario": "16:30",
+      "idAerovia": "R2",
+      "altitude": 25000,
+      "slots": [
+        "16:30",
+        "17:30",
+        "18:30"
+      ],
+      "cancelado": false
+    }
+  ]
+]

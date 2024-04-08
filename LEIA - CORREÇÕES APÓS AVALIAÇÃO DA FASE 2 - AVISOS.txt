@@ -1,0 +1,8 @@
+As correções feitas em sua grande maioria se não em sua totalidade foram marcadas como 
+"função adicionada" ou "corrigida" nos comentários acima das funções/métodos que foram adicionados ou corrigidos após a correção do tutor a fim de facilitar a nova correção após revisão.
+
+Agradeço pela compreensão!
+
+Att,
+
+Nicholas Francatti.
